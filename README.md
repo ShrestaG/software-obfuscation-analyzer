@@ -36,3 +36,6 @@ streamlit run app.py
 - Dashboard building
 - File processing
 - Error handling
+  
+## 🌐 Live Demo
+https://software-obfuscation-analyzer.streamlit.app/
